@@ -15,3 +15,16 @@ split over
 several
 lines"""
 print(anotherSplitString)
+greeting="hello"
+# print("c:\Users\chris\notes.txt")
+
+age = 24
+print(age)
+
+years = "2 years"
+
+print(type(greeting))
+
+print(type(age))
+
+print(type(years))
