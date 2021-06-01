@@ -4,3 +4,5 @@ string3="pining "
 string4="for "
 string5="football season."
 print(string1 + string2 + string3 + string4 + string5)
+
+print("Hello " * 5)
