@@ -7,3 +7,13 @@ print(a * b)
 print(a/b)
 print(a//b)
 print(a %b)
+print ()
+
+for i in range(1, a//b):
+    print(i)
+print()
+
+i = 1
+print(i)
+i =2
+print(i)
