@@ -20,7 +20,7 @@ greeting="hello"
 
 age = 24
 print(age)
-
+name = input("Tupe your name")
 years = "2 years"
 
 print(type(greeting))
@@ -28,3 +28,5 @@ print(type(greeting))
 print(type(age))
 
 print(type(years))
+
+#print(name + " is " + age + " years old")
